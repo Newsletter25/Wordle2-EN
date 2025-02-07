@@ -12961,7 +12961,7 @@ var guessList = [
 
 guessList = guessList.concat(wordList);
 
-var word = "grant".toUpperCase();
+var word = "loans".toUpperCase();
 console.log(word);
 
 window.onload = function () {
